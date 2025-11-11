@@ -1,4 +1,4 @@
-# BIO - Zvýraznění krevního řečiště v prstu README
+# BIO - Zvýraznění krevního řečiště v prstu
 ## Overview
 This repository contains code and documentation for experiments involving Gabor filters and the maximum curvature method.
 
